@@ -110,12 +110,11 @@ Automated meeting documentation and centralized keyword-searchable notes.
 ---
 
 ## 🌍 About Me  
-I’m passionate about solving security problems, analyzing threats, and building scalable defense strategies. My long-term goal is to become a cybersecurity consultant supporting organizations across the US, Nigeria, and beyond.
+I’m passionate about solving security problems, analyzing threats, and building scalable defense strategies. My long-term goal is to become a cybersecurity consultant supporting organizations across the globe.
 
 ---
 
 ## 📫 Connect With Me  
 - **LinkedIn:** *https://www.linkedin.com/in/blessing-ibe/*
-- **Email:** *blessedibe9@gmail.com*
-- **Email:** *(Add your email)*  
+- **Email:** *blessedibe9@gmail.com*  
 

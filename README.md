@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Blessing — SOC Analyst | Cloud Security | Incident Response  
+#  Hi, I'm Blessing, SOC Analyst | Cloud Security | Incident Response  
 
 I’m a Security Operations Analyst with hands-on experience detecting, investigating, and responding to threats across cloud and on-prem environments. I specialize in **incident response**, **AWS security**, **SIEM operations**, **threat intelligence**, and **digital forensics**.
 
